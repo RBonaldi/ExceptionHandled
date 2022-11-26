@@ -13,7 +13,6 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageTags>ExceptionHandled, Exception, Handled, validateException, Validate</PackageTags>
     <RepositoryType>GitHub</RepositoryType>
-    <Win32Resource>C:\Projetos\ExceptionHandled\Assets\logo.png</Win32Resource>
   </PropertyGroup>
 
   <ItemGroup>
