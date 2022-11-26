@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Otc.DomainBase.Exceptions
+namespace ExceptionsLibrary
 {
     public class InternalError
     {

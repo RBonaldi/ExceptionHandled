@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace Otc.DomainBase.Exceptions
+namespace ExceptionsLibrary
 {
     public abstract class CoreException : Exception
     {

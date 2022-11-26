@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Otc.DomainBase.Exceptions
+namespace ExceptionsLibrary
 {
     [Serializable]
     public class ModelValidationException : CoreException<ModelValidationError>

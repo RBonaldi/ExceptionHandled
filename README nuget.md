@@ -1,10 +1,3 @@
-<p align="center">
-    <a href="#Validate">
-        <img alt="logo" src="Assets/logo.png">
-    </a>
-</p>
-<br>
-
 Validate system exceptions. Specifically handle the generated exceptions.
 
 # Validate

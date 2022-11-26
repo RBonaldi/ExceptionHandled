@@ -1,4 +1,4 @@
-﻿namespace Otc.DomainBase.Exceptions
+﻿namespace ExceptionsLibrary
 {
     public abstract class CoreError
     {
